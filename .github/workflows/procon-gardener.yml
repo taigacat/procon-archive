@@ -2,8 +2,7 @@ name: Procon-gardener
 
 on:
   schedule:
-  - cron: "0 0 * * 3"
-  workflow_dispatch:
+  - cron: "30 18 * * *"
 
 jobs:
   archive:
