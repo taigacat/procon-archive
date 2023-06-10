@@ -1,0 +1,12 @@
+{
+	"id": 42120512,
+	"epoch_second": 1686398536,
+	"problem_id": "abc305_a",
+	"contest_id": "abc305",
+	"user_id": "taigacat",
+	"language": "Java (OpenJDK 11.0.6)",
+	"point": 100,
+	"length": 9168,
+	"result": "AC",
+	"execution_time": 74
+}
